@@ -52,4 +52,4 @@ Parkinson's recall 0.90, precision 0.97 (86 files, so the realistic range is abo
 Python, librosa, scikit-learn, pandas, NumPy, matplotlib, Gradio
 
 ## Author
-<Your name>, MCA, University of Kashmir
+Faisal Malik 
